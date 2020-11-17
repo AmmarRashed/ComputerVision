@@ -1,0 +1,8 @@
+.git
+.ipynb_checkpoints
+.idea
+__pycache__
+Action Recognition with Optical Flow/data/
+Homography Estimation/data/
+data/
+Action Recognition with Optical Flow/data/
